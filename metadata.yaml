@@ -1,0 +1,34 @@
+_repo: Bric---brac_6319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6319'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+- GITenberg
+tableOfContents: Deux infanticides -- Poètes, peintres et musiciens -- Désir et possession
+  -- Une mère -- Le curé de Boulogne -- Un fait personnel -- Comment j'ai fait jouer
+  à Marseille le drame des forestiers -- Heures de prison -- Jacques Fosse -- Le château
+  de Pierrefonds -- Le lotus blanc et la rose mousseuse.
+title: Bric-à-brac
+url: http://www.gutenberg.org/ebooks/6319
