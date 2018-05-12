@@ -1,5 +1,8 @@
 _repo: Bric---brac_6319
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6319#Bric---brac
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
